@@ -1,0 +1,7 @@
+x1. Toolbar dependecy injection
+2. Extract code from services
+3. Smirnov review before 2
+4. Dialogs for Exceptions
+5. Pinsky Review
+6. Postgress
+7. Docker
